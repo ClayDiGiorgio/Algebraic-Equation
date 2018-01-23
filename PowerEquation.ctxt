@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=PowerEquation
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PowerEquation\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=e1\ e2
+comment1.target=PowerEquation(Equation,\ Equation)
+comment2.params=t
+comment2.target=double\ solve(double)
+comment3.params=s
+comment3.target=Equation\ solve(SolutionSet)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=Equation\ getDerivative()
+comment6.params=respect
+comment6.target=Equation\ getPartialDerivative(java.lang.String)
+comment7.params=
+comment7.target=Equation\ simplify()
+comment8.params=
+comment8.target=int\ getOperationLevel()
+numComments=9

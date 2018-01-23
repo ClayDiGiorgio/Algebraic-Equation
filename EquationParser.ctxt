@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=EquationParser
+comment1.params=rawEquationString
+comment1.target=Equation\ parse(java.lang.String)
+comment10.params=function
+comment10.target=boolean\ containsUnconvertedNumberOrVariable(java.lang.String)
+comment11.params=c
+comment11.target=boolean\ isOperationChar(char)
+comment12.params=check
+comment12.target=boolean\ isSpecialChar(char)
+comment2.params=toParse\ $functions\ terms
+comment2.target=Equation\ recursiveParseSingleOperationFunctions(java.lang.String,\ java.util.ArrayList,\ java.util.ArrayList)
+comment3.params=$functions
+comment3.target=java.util.ArrayList\ splitIntoSingleOperationFunctions(java.util.ArrayList)
+comment4.params=function
+comment4.target=int\ getOperationCount(java.lang.String)
+comment5.params=rawEquationString
+comment5.target=java.util.ArrayList\ findParentheses(java.lang.String)
+comment6.params=s
+comment6.target=boolean\ isParenthesesPair(java.lang.String)
+comment7.params=$functions
+comment7.target=java.util.ArrayList\ replaceTerms(java.util.ArrayList)
+comment8.params=index\ string
+comment8.target=boolean\ letterIsAlone(int,\ java.lang.String)
+comment9.params=base\ replace\ start\ end
+comment9.target=java.lang.String\ replaceString(java.lang.String,\ java.lang.String,\ int,\ int)
+numComments=13

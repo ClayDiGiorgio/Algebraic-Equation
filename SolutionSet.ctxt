@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SolutionSet
+comment0.text=\r\n\ Stores\ an\ array\ of\ variables\ and\ values\ for\ those\ variables\ to\ solve\ an\ equation\ with\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=vars\ vals
+comment1.target=SolutionSet(java.lang.String[],\ double[])
+comment2.params=varName
+comment2.target=java.lang.String\ getValue(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String[]\ getVariables()
+numComments=4

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ParametricFunction
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ParametricFunction\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=e1\ e2
+comment1.target=ParametricFunction(Equation,\ Equation)
+comment2.params=t
+comment2.target=double\ getX(double)
+comment3.params=t
+comment3.target=double\ getY(double)
+comment4.params=
+comment4.target=java.lang.String\ getXfunctionAsString()
+comment5.params=
+comment5.target=java.lang.String\ getYfunctionAsString()
+comment6.params=
+comment6.target=void\ test()
+comment7.params=e
+comment7.target=Equation\ simplifyFully(Equation)
+numComments=8
